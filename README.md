@@ -80,8 +80,8 @@ My goal is to contribute to the future of the tech industry by combining creativ
         <a href="https://pixeldreamsgallery.me/" target="_blank">
           <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
         </a>
-        <p><strong>Your ultimate free resource for royalty-free images powered by AI.</strong></p>
-        <p><em>Check it out: <a href="https://pixeldreamsgallery.me/">pixeldreamsgallery.me</a></em></p>
+        <p><strong>TheocraticApp is a bot to manage and automate theocratic administrative processes, from the WhatsApp platform.</strong></p>
+        <p><em>Check it out: <a href="https://github.com/Jestruyo/TheocraticApp.git">TheocraticApp.com</a></em></p>
       </div>
     </td>
     <td width="50%" valign="top">

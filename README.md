@@ -25,6 +25,10 @@ I'm passionate about technology and software development, driven by the mission 
 
 My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=5000&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=La+tecnología+no+es+nada%2C+lo+importante+es+confiar+en+los+%3CDevelopers%2F%3E" alt="Typing slogan" />
+</div>
+
 > "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines." — Robert C. Martin
 
 ## 💻 Technologies & Tools

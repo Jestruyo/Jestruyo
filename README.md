@@ -25,11 +25,7 @@ I'm passionate about technology and software development, driven by the mission 
 
 My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 
->> ## ⚡ La tecnología no es nada, lo importante es confiar en los <strong><code>&lt;Developers/&gt;</code> 🚀👾</strong>
-
-
-
-> "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines." — Robert C. Martin
+> ## ⚡ La tecnología no es nada, lo importante es confiar en los <strong><code>&lt;Developers/&gt;</code>👾</strong>
 
 ## 💻 Technologies & Tools
 

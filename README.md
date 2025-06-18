@@ -32,7 +32,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 <div align="center">
 
-### Languages & Frameworks
+### 🧠 Languages & Frameworks
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="7">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>

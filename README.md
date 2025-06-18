@@ -26,7 +26,7 @@ I'm passionate about technology and software development, driven by the mission 
 My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 
 <p align="center">
-  <img src="https://github.com/TU_USUARIO/TU_REPO/blob/main/ruta/a/tu-banner.png" alt="Eslogan" />
+  <img src="https://github.com/TU_USUARIO/TU_REPO/blob/main/ruta/a/tu-banner.png" alt="La tecnologia no es nada" />
 </p>
 
 

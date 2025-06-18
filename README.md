@@ -25,7 +25,7 @@ I'm passionate about technology and software development, driven by the mission 
 
 My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 
-## ⚡ La tecnología no es nada, lo importante es confiar en los <strong><code>&lt;Developers/&gt;</code> 🚀👾</strong>
+>> ## ⚡ La tecnología no es nada, lo importante es confiar en los <strong><code>&lt;Developers/&gt;</code> 🚀👾</strong>
 
 
 

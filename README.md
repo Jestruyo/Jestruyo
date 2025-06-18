@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-juanses--dev.com-38BDAE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/jestruyo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Sebastián_Vargas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Jesus_Trujillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/JuansesDev">
     <img src="https://img.shields.io/badge/Twitter-@JuansesDev-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>

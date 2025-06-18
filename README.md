@@ -60,7 +60,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <img src="https://img.shields.io/badge/Vertex%20AI-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Vertex AI"/>
 </p>
 
-### Currently Learning
+### Currently Learning 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>

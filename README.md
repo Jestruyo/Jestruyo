@@ -77,7 +77,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
     <td width="50%" valign="top">
       <h3 align="center">Bot | TheocraticApp</h3>
       <div align="center">
-        <a href="https://pixeldreamsgallery.me/" target="_blank">
+        <a href="https://github.com/Jestruyo/TheocraticApp.git" target="_blank">
           <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
         </a>
         <p><strong>TheocraticApp is a bot to manage and automate theocratic administrative processes, from the WhatsApp platform.</strong></p>
@@ -85,7 +85,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Aura Os</h3>
+      <h3 align="center">Collaboration | Aura Os</h3>
       <div align="center">
         <a href="https://github.com/JuansesDev/AuraOs" target="_blank">
           <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/auraOs-512.png" width="100%" alt="AuraOs"/>

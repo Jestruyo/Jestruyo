@@ -84,7 +84,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
         <p><em>Check it out: <a href="https://github.com/Jestruyo/TheocraticApp.git">Api Open source</a></em></p>
       </div>
     </td>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Collaboration | Aura Os</h3>
       <div align="center">
         <a href="https://github.com/JuansesDev/AuraOs" target="_blank">
@@ -93,7 +93,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
         <p><strong>Web OS Simulator is a web-based desktop simulator developed by Juan Vargas (JuansesDev). It temporarily saves data to localstorage. I'm trying to connect the simulator to Google Workspace services.</strong></p>
         <p><em>Check it out: <a href="https://juansesdev.github.io/AuraOs/">Demo</a></em></p>
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 

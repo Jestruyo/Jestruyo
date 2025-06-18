@@ -21,7 +21,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on creating innovative web and mobile applications that solve real problems and enhance user experience. I combine my enterprise development experience with SAP ABAP and my passion for modern technologies to build robust and scalable solutions.
+I'm passionate about technology and software development, driven by the mission to create innovative solutions that make a real impact.  
+I love building web applications, automating workflows, and exploring the power of artificial intelligence and cloud computing.  
+Every line of code is an opportunity for growth, learning, and meaningful change.  
+My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 
 > "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines." — Robert C. Martin
 

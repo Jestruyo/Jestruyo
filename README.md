@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/jestruyo/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesus_Trujillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/JuansesDev">
+  <a href="https://x.com/Jestruyo">
     <img src="https://img.shields.io/badge/Twitter-@Jestruyo-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:juansesdev@gmail.com">

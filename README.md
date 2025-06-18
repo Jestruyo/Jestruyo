@@ -60,12 +60,13 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <img src="https://img.shields.io/badge/Vertex%20AI-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Vertex AI"/>
 </p>
 
-### Currently Learning 
+### 📚 Currently Learning
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/English-B1+%20Learner-007ACC?style=for-the-badge&logo=polywork&logoColor=white" alt="English"/>
 </p>
 </div>
 

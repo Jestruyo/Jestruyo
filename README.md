@@ -21,9 +21,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about technology and software development, driven by the mission to create innovative solutions that make a real impact.  
-I love building web applications, automating workflows, and exploring the power of artificial intelligence and cloud computing.  
-Every line of code is an opportunity for growth, learning, and meaningful change.
+I'm passionate about technology and software development, driven by the mission to create innovative solutions that make a real impact. I love building web applications, automating workflows, and exploring the power of artificial intelligence and cloud computing. Every line of code is an opportunity for growth, learning, and meaningful change.
 
 My goal is to contribute to the future of the tech industry by combining creativity, logic, and a deep passion for solving real-world problems.
 

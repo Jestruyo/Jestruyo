@@ -78,7 +78,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
       <h3 align="center">Pixel Dreams Gallery</h3>
       <div align="center">
         <a href="https://pixeldreamsgallery.me/" target="_blank">
-          <img src="https://github.com/JuansesDev/JuansesDev/blob/main/Images/PDG.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
+          <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
         </a>
         <p><strong>Your ultimate free resource for royalty-free images powered by AI.</strong></p>
         <p><em>Check it out: <a href="https://pixeldreamsgallery.me/">pixeldreamsgallery.me</a></em></p>

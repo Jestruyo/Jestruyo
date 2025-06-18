@@ -75,7 +75,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Pixel Dreams Gallery</h3>
+      <h3 align="center">Bot TheocraticApp</h3>
       <div align="center">
         <a href="https://pixeldreamsgallery.me/" target="_blank">
           <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>

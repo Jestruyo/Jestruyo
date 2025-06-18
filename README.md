@@ -81,7 +81,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
           <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
         </a>
         <p><strong>TheocraticApp is a bot to manage and automate theocratic administrative processes, from the WhatsApp platform.</strong></p>
-        <p><em>Check it out: <a href="https://github.com/Jestruyo/TheocraticApp.git">TheocraticApp.com</a></em></p>
+        <p><em>Check it out: <a href="https://github.com/Jestruyo/TheocraticApp.git">Api Open source</a></em></p>
       </div>
     </td>
     <td width="50%" valign="top">

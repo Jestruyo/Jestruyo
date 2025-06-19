@@ -157,6 +157,12 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>
 
 </div>
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Jestruyo/Jestruyo/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 
 ## ⚡ Fun Fact

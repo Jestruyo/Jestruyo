@@ -101,9 +101,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 ## 🌱 Professional Development
 
-My growth path focuses on:
-
-🎓 Current Studies
+🎓 My growth path focuses on:
 
 - 💻 **Computer Engineering**: Pursuing a degree to become a well-rounded tech professional in systems development and architecture.
 - ☁️ **Google Cloud Certifications**: Working toward becoming an Associate Cloud Engineer, focused on infrastructure and automation.

@@ -103,11 +103,12 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 My growth path focuses on:
 
-- 🌟 **System Architecture**: Designing scalable and maintainable solutions
-- 📱 **Advanced Mobile Development**: Creating seamless experiences on iOS and Android
-- ☁️ **Cloud Computing**: Implementing serverless infrastructures and microservices
-- 🧩 **Design Patterns**: Applying best practices in software development
-- 🔄 **DevOps**: Integrating CI/CD to optimize workflows
+🎓 Current Studies
+
+- 💻 **Computer Engineering**: Pursuing a degree to become a well-rounded tech professional in systems development and architecture.
+- ☁️ **Google Cloud Certifications**: Working toward becoming an Associate Cloud Engineer, focused on infrastructure and automation.
+- 📱 **Mobile Development with Flutter**: Learning to build cross-platform apps with great performance and design.
+
 
 ## 💡 Areas of Interest
 

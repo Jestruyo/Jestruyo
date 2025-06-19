@@ -100,8 +100,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 ## 🌱 Professional Development
 
-<img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" width="500" alt="Cowboy Bebop Hacker"/>
-
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" alt="Coding in progress"/>
 
 My growth path focuses on:
 

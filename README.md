@@ -111,26 +111,31 @@ My goal is to contribute to the future of the tech industry by combining creativ
 ## 💡 Areas of Interest
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Areas+of+Interest+that+Drive+My+Tech+Journey;Building+Impactful+and+Inclusive+Tech+Solutions;Powered+by+Curiosity%2C+AI%2C+and+Cloud+Innovation" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
   <table>
     <tr>
-      <td align="center"><b>💼 Enterprise Development</b></td>
-      <td align="center"><b>📱 Mobile Applications</b></td>
-      <td align="center"><b>🎮 Game Dev</b></td>
+      <td align="center"><b>🏢 Enterprise Solutions</b></td>
+      <td align="center"><b>🌿 Inclusion & Urban Agriculture</b></td>
+      <td align="center"><b>📚 Educational Content</b></td>
     </tr>
     <tr>
-      <td>Creating robust solutions for corporate environments, optimizing processes and improving operational efficiency.</td>
-      <td>Designing intuitive mobile experiences that connect users with practical solutions for everyday problems.</td>
-      <td>Exploring interactive mechanics and immersive narratives through game programming.</td>
+      <td>Build a company focused on developing technology for business communications and process management.</td>
+      <td>Create inclusive projects for older adults through indoor gardening and vertical farming at home.</td>
+      <td>Produce and share well-documented self-learning resources in the IT and software development sector.</td>
     </tr>
     <tr>
-      <td align="center"><b>🎨 UI/UX Design</b></td>
+      <td align="center"><b>🧠 Artificial Intelligence</b></td>
       <td align="center"><b>☁️ Cloud Architecture</b></td>
-      <td align="center"><b>🤖 Artificial Intelligence</b></td>
+      <td align="center"><b>⚽ Health & Wellness</b></td>
     </tr>
     <tr>
-      <td>Creating elegant and functional interfaces that prioritize user experience and accessibility.</td>
-      <td>Implementing scalable and secure cloud infrastructures using industry best practices.</td>
-      <td>Integrating AI capabilities to create more intelligent and adaptive solutions for users.</td>
+      <td>Research and develop AI-based solutions to solve real-world problems and enable smart automation.</td>
+      <td>Design modern, scalable, and efficient cloud infrastructures using tools like Google Cloud and Docker.</td>
+      <td>Balance life with activities like football and home workouts to stay physically and mentally strong.</td>
     </tr>
   </table>
 </div>

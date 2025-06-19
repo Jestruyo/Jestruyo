@@ -99,6 +99,8 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 ## 🌱 Professional Development
 
+<img src="https://media.giphy.com/media/26xBP5a5Y5BRrxh8E/giphy.gif" width="400"/>
+
 My growth path focuses on:
 
 - 🌟 **System Architecture**: Designing scalable and maintainable solutions

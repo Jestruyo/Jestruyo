@@ -46,6 +46,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </marquee>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" alt="Coding in progress"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -99,8 +100,6 @@ My goal is to contribute to the future of the tech industry by combining creativ
 </table>
 
 ## 🌱 Professional Development
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" alt="Coding in progress"/>
 
 My growth path focuses on:
 

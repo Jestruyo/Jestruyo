@@ -158,17 +158,11 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 </div>
 
-
 ## ⚡ Fun Fact
-My creative process follows the same pattern whether I'm developing code or exploring virtual worlds: first observing the big picture, then experimenting with different approaches, and finally finding solutions others might have overlooked. Curiosity is my best tool!
+My creative process blends curiosity, analysis, and a passion for continuous learning. Whether I'm developing a tech solution or designing a new project, I always start by seeing the big picture, then explore innovative approaches, and finally build something meaningful that can inspire others.
+✨ Creativity is my favorite programming language.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuansesDev&style=for-the-badge&color=38BDAE" alt="Profile views" />
-</div>
-
-<p align="center">
-  <i>Interested in collaborating? Let's build something extraordinary together!</i>
-</p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Jestruyo&style=for-the-badge&color=38BDAE" alt="Profile views" /> </div> <p align="center"> <i>Interested in collaborating? I'm ready to build ideas that make a difference 🚀</i> </p>
 
 ---
 

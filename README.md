@@ -166,4 +166,4 @@ My creative process blends curiosity, analysis, and a passion for continuous lea
 
 ---
 
-📫 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/sebastian-vargas-122aa4285/) or via email at juansesdevcontact@gmail.com
+📫 The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jestruyo/) or via email at jesusdavidtrujilloteheran@gmail.com

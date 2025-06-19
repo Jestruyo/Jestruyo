@@ -73,7 +73,6 @@ My goal is to contribute to the future of the tech industry by combining creativ
 </div>
 
 ## 🔭 Featured Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">

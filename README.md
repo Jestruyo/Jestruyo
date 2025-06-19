@@ -141,18 +141,23 @@ My goal is to contribute to the future of the tech industry by combining creativ
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuansesDev&theme=tokyonight" width="100%" alt="Profile Details"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuansesDev&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuansesDev&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
-</p>
+  <!-- Línea animada de introducción -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Curious+mind+%7C+Passionate+builder+%7C+Learning+in+public" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuansesDev&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>
-</p>
+  <!-- Tarjeta resumen de perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jestruyo&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+  <!-- Estadísticas y racha -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jestruyo&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>
+
+</div>
+
 
 ## ⚡ Fun Fact
 My creative process follows the same pattern whether I'm developing code or exploring virtual worlds: first observing the big picture, then experimenting with different approaches, and finally finding solutions others might have overlooked. Curiosity is my best tool!

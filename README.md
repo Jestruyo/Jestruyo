@@ -147,7 +147,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=800&lines=Curious+mind+%7C+Passionate+builder+%7C+Learning+in+public" alt="Typing SVG" />
 
   <!-- Tarjeta resumen de perfil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jestruyo&theme=tokyonight" width="130%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jestruyo&theme=tokyonight" width="1500%" alt="Profile Details"/>
 
   <!-- Estadísticas y racha -->
   <img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="47%" alt="GitHub Stats"/>

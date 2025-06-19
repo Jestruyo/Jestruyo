@@ -150,8 +150,8 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jestruyo&theme=tokyonight" width="100%" alt="Profile Details"/>
 
   <!-- Estadísticas y racha -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="50%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jestruyo&theme=tokyonight&border_radius=10" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jestruyo&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
 
   <!-- Lenguajes más usados -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="40%" alt="Top Languages"/>

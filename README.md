@@ -154,7 +154,7 @@ My goal is to contribute to the future of the tech industry by combining creativ
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jestruyo&theme=tokyonight&border_radius=10" width="50%" alt="GitHub Streak"/>-->
 
   <!-- Lenguajes más usados -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="35%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="36%" alt="Top Languages"/>
 
 </div>
 

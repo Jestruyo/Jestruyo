@@ -79,12 +79,21 @@ My goal is to contribute to the future of the tech industry by combining creativ
       <h3 align="center">Bot | TheocraticApp</h3>
       <div align="center">
         <a href="https://github.com/Jestruyo/TheocraticApp.git" target="_blank">
-          <img src="img/theocraticApp.jpeg" width="100%" alt="Pixel Dreams Gallery"/>
+          <img src="img/theocraticApp.jpeg" width="100%" alt="TheocraticApp"/>
         </a>
         <p><strong>TheocraticApp is a bot to manage and automate theocratic administrative processes, from the WhatsApp platform.</strong></p>
         <p><em>Check it out: <a href="https://github.com/Jestruyo/TheocraticApp.git">Api Open source</a></em></p>
       </div>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Platform | Zolver</h3>
+      <div align="center">
+        <img src="img/ZolverApp.png" width="100%" alt="Zolver"/>
+        <p><strong>Zolver is a collaborative economy (Gig Economy) platform that connects professionals and technicians (plumbers, electricians, installers, etc.) with end customers (homes, condominiums, small businesses). The application allows the same user to act as a client or as a technician (after validation), manage a review system, and handle payments for services rendered.</strong></p>
+        <p><em>🚧 In Development</em></p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 ## 🌱 Professional Development

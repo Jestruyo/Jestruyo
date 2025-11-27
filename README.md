@@ -89,8 +89,9 @@ My goal is to contribute to the future of the tech industry by combining creativ
       <h3 align="center">Platform | Zolver</h3>
       <div align="center">
         <img src="img/ZolverApp.png" width="100%" alt="Zolver"/>
-        <p><strong>Zolver is a collaborative economy (Gig Economy) platform that connects professionals and technicians (plumbers, electricians, installers, etc.) with end customers (homes, condominiums, small businesses). The application allows the same user to act as a client or as a technician (after validation), manage a review system, and handle payments for services rendered.</strong></p>
+        <p><strong>Zolver is a collaborative economy platform that connects verified technicians with customers. Users can act as clients or technicians, with a review system and payment management for services.</strong></p>
         <p><em>🚧 In Development</em></p>
+        <img src="img/ZolverAppBanner.png" width="100%" alt="Zolver Banner"/>
       </div>
     </td>
   </tr>

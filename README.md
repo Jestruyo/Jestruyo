@@ -208,10 +208,10 @@ curl "http://127.0.0.1:8788/v1/prompts/demo?nombre=Ada"
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=720&lines=Engineer+first+%7C+Architecture+first+%7C+Building+PRM+in+public" alt="Tagline" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jestruyo&theme=tokyonight" width="100%" alt="Profile details"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jestruyo&theme=tokyo-night&area=true&hide_border=true&custom_title=GitHub%20activity&radius=8" width="100%" alt="GitHub activity graph"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_title=false" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true" width="42%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jestruyo&show_icons=true&count_private=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jestruyo&layout=compact&theme=tokyonight&border_radius=10&count_private=true&hide_border=true" width="42%" alt="Top languages"/>
 
 </div>
 

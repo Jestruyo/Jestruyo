@@ -101,6 +101,12 @@ What I actually do as an engineer — not a badge list, the work behind it.
 
 I am the **principal contributor** of the product: architecture, backend, CMS, and the command-line tool. PRM Studio is a micro-PaaS in the QANTK ecosystem — **The Edge Prompt Delivery Network & Vault**.
 
+<div align="center">
+  <a href="https://github.com/Jestruyo/prm-cms">
+    <img src="./img/promo_prm1.png" width="100%" alt="PRM Studio — from local craft to global delivery"/>
+  </a>
+</div>
+
 Traditional software bakes prompt text into the repo. Every wording change means compile, test, and redeploy. I built PRM to split that concern:
 
 1. Teams keep prompts in a **vault** (CMS + versions + API keys).
@@ -167,6 +173,12 @@ Traditional software bakes prompt text into the repo. Every wording change means
 | **Platform** | Typed contracts, serverless cost model ($0 base traffic), packaging (`npm pack` / global install) |
 
 ### Developer flow (`prm`)
+
+<div align="center">
+  <a href="https://github.com/Jestruyo/prm-cli">
+    <img src="./img/promo_prm2.png" width="100%" alt="PRM CLI — build prompts locally, publish when ready"/>
+  </a>
+</div>
 
 ```bash
 prm init

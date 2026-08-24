@@ -19,7 +19,7 @@ Lead engineer & principal contributor — **PRM Studio** and the **`prm` CLI**
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=900&color=38BDAE&center=true&vCenter=true&width=760&lines=Computer+%26+Software+Engineer;Lead+engineer+%E2%80%94+PRM+Studio+%26+prm+CLI;APIs+%C2%B7+Cloud+%C2%B7+Data+%C2%B7+Automation;TypeScript+%C2%B7+Python+%C2%B7+Edge+%C2%B7+DX" alt="Roles" />
 
 <!-- gif:hero — reemplaza assets/gifs/hero.gif -->
-<img src="./assets/gifs/hero.gif" width="920" alt="Building software"/>
+<img src="./assets/gifs/hero.gif" width="520" alt="Software engineer at a dual-monitor workstation"/>
 
 <p>
   <a href="https://www.jestruyo.com"><img src="https://img.shields.io/badge/Portfolio-jestruyo.com-38BDAE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
@@ -92,7 +92,7 @@ What I actually do as an engineer — not a badge list, the work behind it.
 
 <div align="center">
   <!-- gif:building — reemplaza assets/gifs/building.gif -->
-  <img src="./assets/gifs/building.gif" width="640" alt="Building in progress"/>
+  <img src="./assets/gifs/building.gif" width="420" alt="Coding in the editor"/>
 </div>
 
 ---

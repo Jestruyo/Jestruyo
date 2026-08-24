@@ -90,7 +90,7 @@ I am the **principal contributor** of the product: architecture, backend, CMS, a
 
 <div align="center">
   <a href="https://github.com/Jestruyo/prm-cms">
-    <img src="./img/promo_prm1.png" width="100%" alt="PRM Studio — from local craft to global delivery"/>
+    <img src="./img/promo_prm1.jpeg" width="100%" alt="PRM Studio — from local craft to global delivery"/>
   </a>
 </div>
 
